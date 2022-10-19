@@ -1,17 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package library;
 
 import java.util.*;
 import java.io.*;
 
-/**
- *
- * @author Minahil Imtiaz
- */
 public class Borrower extends Users {
 
     private String address;
