@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package library;
 
 import java.util.*;
@@ -14,12 +10,7 @@ import java.text.ParseException;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.ListIterator;
-//import java.util.ArrayList;
 
-/**
- *
- * @author Minahil Imtiaz
- */
 public class Staff extends Users {
 
     Staff(int user_id, String user_name, char gender) {
