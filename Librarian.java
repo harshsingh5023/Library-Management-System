@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package library;
 
 import java.util.*;
@@ -11,10 +7,6 @@ import java.util.Iterator;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Minahil Imtiaz
- */
 public class Librarian extends Staff {
 
     Librarian(int user_id, String user_name, char gender) {
